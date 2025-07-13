@@ -1,4 +1,5 @@
-<!DOCTYPE html><html lang="hi">
+<!DOCTYPE html>
+<html lang="hi">
 <head>
   <!-- ✅ SEO Meta Tags -->
   <meta charset="UTF-8" />
