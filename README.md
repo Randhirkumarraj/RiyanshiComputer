@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="hi">
+<!DOCTYPE html><html lang="hi">
 <head>
   <!-- ✅ SEO Meta Tags -->
   <meta charset="UTF-8" />
@@ -16,7 +15,7 @@
   <meta property="og:type" content="website" />  <!-- ✅ Twitter Card Tags -->  <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="Riyanshi Computer - बलुआ का CSC केंद्र" />
   <meta name="twitter:description" content="ऑनलाइन सेवाएं: आधार, पेंशन, पैन कार्ड, छात्रवृत्ति, और अधिक।" />
-  <meta name="twitter:image" content="https://www.riyanshicomputer.in/logo.png" />  <link rel="stylesheet" href="style.css" />
+  <meta name="twitter:image" content="https://www.riyanshicomputer.in/logo.png" />  <link re="stylesheet" href="style.css" />
 </head>
 <body>  <h1>🖥️ RIYANSHI COMPUTER 🖥️</h1>
   <h2>( पता:- बलुआ मध्य विद्यालय से सटे दक्षिण )</h2>
@@ -26,8 +25,8 @@
     <hr />
   </div>  <div class="typing-text" id="typing"></div>  <div class="welcome">
     🌟 Welcome to my personal webpage! 🌟
-  </div><audio id="bg-music" src="music.mp3" loop></audio> <button onclick="toggleMusic()">Play/Pause Music</button>
-
+  <audio id="bg-music" src="music.mp3" loop></audio>
+<button onclick="toggleMusic()">🎵 म्यूज़िक चालू/बंद</button>
   <div class="gallery">
     <img src="img1.png" alt="Riyanshi Computer Office" />
     <img src="img2.png" alt="Customer Service Area" />
@@ -321,11 +320,7 @@
   <p>पेंशन आवेदन सेवा</p>
   <a href="https://serviceonline.bihar.gov.in" target="_blank">Visit</a>
 </div>
-<div class="card">
-  <h3>I-Labharthi</h3>
-  <p>बिहार सरकार की श्रमिक योजना पोर्टल</p>
-  <a href="https://www.labour.bih.nic.in/ilabharthi.aspx" target="_blank">Visit</a>
-</div>
+
 <div class="card">
   <h3>सामाजिक कल्याण विभाग</h3>
   <p>बिहार सामाजिक कल्याण विभाग</p>
@@ -378,11 +373,7 @@
     <p>📞 मोबाइल: +917277110546</p>
     <a href="tel:+917277110546">
       <button>📞 Call Now</button>
-  <!-- ✅ WhatsApp Button -->
-    <a href="https://wa.me/917277110546?text=Namaste%20Riyanshi%20Computer%20se%20baat%20karna%20hai" target="_blank" class="whatsapp-btn">
-      📱 WhatsApp पर संपर्क करें
     </a>
- 
     <h4>🖥️ RIYANSHI COMPUTER 🖥️</h4>
     <p>📍 पता: बलुआ, सीतामढ़ी, बिहार</p>
   </section>  <footer style="background-color: #007bff; color: white; text-align: center; padding: 20px; border-top: 3px solid #0056b3; font-size: 14px;">
