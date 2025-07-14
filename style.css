@@ -218,3 +218,17 @@ body.dark-mode {
   background-color: #1a1a1a;
   color: #ccc;
 }
+    .whatsapp-btn {
+      display: inline-block;
+      background-color: #25D366;
+      color: white;
+      padding: 10px 20px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+      font-size: 14px;
+    }
+
+    .whatsapp-btn:hover {
+      background-color: #1ebe5c;
+    }
