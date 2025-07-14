@@ -321,7 +321,11 @@
   <p>पेंशन आवेदन सेवा</p>
   <a href="https://serviceonline.bihar.gov.in" target="_blank">Visit</a>
 </div>
-
+<div class="card">
+  <h3>I-Labharthi</h3>
+  <p>बिहार सरकार की श्रमिक योजना पोर्टल</p>
+  <a href="https://www.labour.bih.nic.in/ilabharthi.aspx" target="_blank">Visit</a>
+</div>
 <div class="card">
   <h3>सामाजिक कल्याण विभाग</h3>
   <p>बिहार सामाजिक कल्याण विभाग</p>
