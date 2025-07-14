@@ -379,6 +379,9 @@
     <a href="tel:+917277110546">
       <button>📞 Call Now</button>
     </a>
+   <!-- ✅ WhatsApp Button -->
+    <a href="https://wa.me/919876543210?text=Namaste%20Riyanshi%20Computer%20se%20baat%20karna%20hai" target="_blank" class="whatsapp-btn">
+      📱 WhatsApp पर संपर्क करें
     <h4>🖥️ RIYANSHI COMPUTER 🖥️</h4>
     <p>📍 पता: बलुआ, सीतामढ़ी, बिहार</p>
   </section>  <footer style="background-color: #007bff; color: white; text-align: center; padding: 20px; border-top: 3px solid #0056b3; font-size: 14px;">
