@@ -375,7 +375,7 @@
       <button>📞 Call Now</button>
     </a>
     <!-- ✅ WhatsApp Button -->
-    <a href="https://wa.me/919876543210?text=Namaste%20Riyanshi%20Computer%20se%20baat%20karna%20hai" target="_blank" class="whatsapp-btn">
+    <a href="https://wa.me/917277110546?text=Namaste%20Riyanshi%20Computer%20se%20baat%20karna%20hai" target="_blank" class="whatsapp-btn">
       📱 WhatsApp पर संपर्क करें
     </a>
     <h4>🖥️ RIYANSHI COMPUTER 🖥️</h4>
