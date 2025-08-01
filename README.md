@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="hi">
+
 <head>
   <!-- ✅ SEO Meta Tags -->
   <meta charset="UTF-8" />
@@ -633,4 +633,4 @@ body.dark-mode {
       <a href="#" style="color: white; text-decoration: underline;">Terms</a>
     </p>
   </footer></body>
-</html>
+
