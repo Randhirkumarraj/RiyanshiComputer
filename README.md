@@ -632,5 +632,5 @@ body.dark-mode {
       <a href="#" style="color: white; text-decoration: underline;">Privacy</a> |
       <a href="#" style="color: white; text-decoration: underline;">Terms</a>
     </p>
-  </footer></body>
+  </footer>
 
