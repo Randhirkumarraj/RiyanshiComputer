@@ -7,7 +7,6 @@
   <meta name="description" content="Riyanshi Computer बलुआ का CSC सेवा केंद्र है जहाँ पैन कार्ड, पेंशन, छात्रवृत्ति, ई-श्रम, राशन कार्ड, आधार आदि सभी डिजिटल सेवाएं उपलब्ध हैं।" />
   <meta name="keywords" content="Riyanshi Computer, बलुआ CSC, Bihar Digital Center, Online Seva, राशन कार्ड, पेंशन योजना, छात्रवृत्ति, PAN Card, Ayushman Bharat, E Shram" />
   <meta name="author" content="Randhir Kumar" />
-  <link rel="canonical" href="https://www.riyanshicomputer.in/" />
   <meta name="robots" content="index, follow" />  <!-- ✅ Open Graph Meta Tags -->  <meta property="og:title" content="Riyanshi Computer - बलुआ का CSC और डिजिटल सेवा केंद्र" />
   <meta property="og:description" content="पैन कार्ड, पेंशन, छात्रवृत्ति, राशन कार्ड और सभी CSC सेवाएं एक जगह।" />
   <meta property="og:image" content="https://www.riyanshicomputer.in/logo.png" />
